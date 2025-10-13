@@ -1,4 +1,5 @@
-[chatbot.html](https://github.com/user-attachments/files/22890927/chatbot.html)[Uploading<!DOCTYPE html>
+[chatbot.html](https://github.com/user-attachments/files/22890966/chatbot.html)
+<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -236,4 +237,4 @@
 </script>
 
 </body>
-</html> chatbot.html…]()
+</html>
